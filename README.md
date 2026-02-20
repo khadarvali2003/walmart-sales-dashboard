@@ -146,4 +146,4 @@ Strategic Relevance:
 Helps pricing and revenue forecasting teams adjust strategies based on macroeconomic indicators.
 
 7.Screen Short/Demo:
-()
+(https://github.com/khadarvali2003/walmart-sales-dashboard/blob/main/walmart%20dashboards.png)
